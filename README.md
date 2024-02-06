@@ -1,7 +1,7 @@
-# Pwnagotchi Cyber Deck
+# Pwnagotchi Rover
 ![](images/pwnagotchiRover.jpeg)
 
-Transform your pwnagotchi sidekick into a cyber deck rover! This project is all about DIY fun, where we're shaking up the Pwnagotchi game by throwing it together with a cyber deck on wheels.
+Hack with style and transform your pwnagotchi sidekick into a cyber deck rover! This project is all about DIY fun, where we're shaking up the Pwnagotchi game by throwing it together with a cyber deck on wheels.<br />
 Remember to use your Pwnagotchi responsibly and in compliance with ethical standards and legal regulations. Happy hacking!
 
 # Bill of Materials

@@ -14,7 +14,7 @@ Remember to use your Pwnagotchi responsibly and in compliance with ethical stand
 (x2) [2.13-inch e-ink Waveshare 4 display](https://amzn.to/49od8X0)<br />
 (x1) [3.5-inch display panel](https://amzn.to/3OwjCuV)<br />
 (x2) [90-degree GPIO extenders & splitter](https://amzn.to/3Uooea9)<br />
-(x1) [CPU heatsink](https://amzn.to/3HN08OL) (optional)<br />
+(x1) [CPU heatsink](https://amzn.to/3HN08OL)<br />
 (x1) Male to male [USB type C](https://amzn.to/49kzHvE)<br />
 (x1) Male to male [HDMI adapter](https://amzn.to/3w3WgGr)<br />
 (x1) 90-degree [USB to Micro USB cable](https://amzn.to/3w1uWsl)<br />
@@ -77,7 +77,7 @@ Remember to use your Pwnagotchi responsibly and in compliance with ethical stand
    _[Camera Drivers](https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/Quick-Start-Guide/)_
    ```
    libcamera-still -o picture.jpg          # Take a picture
-   libcamera-vid -t 10000 -o video.H264    # Take a video
+   libcamera-vid -t 10000 -o video.H264    # Take 10 sec video
    libcamera-vid -t 0 --inline --listen -o tcp://0.0.0.0:8080    # Stream
    ```
  <br />

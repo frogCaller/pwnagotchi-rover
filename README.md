@@ -18,9 +18,9 @@ Remember to use your Pwnagotchi responsibly and in compliance with ethical stand
 (x1) Male to male [USB type C](https://amzn.to/49kzHvE)<br />
 (x1) Male to male [HDMI adapter](https://amzn.to/3w3WgGr)<br />
 (x1) 90-degree [USB to Micro USB cable](https://amzn.to/3w1uWsl)<br />
-(x1) [USB GPS dongle](https://amzn.to/49jqJi4) (optional)<br />
 (x1) [Raspberry pi Camera](https://amzn.to/4bp14WX)<br />
 (x1) [HDMI adpter](https://amzn.to/491uXLt) for raspberry pi camera<br />
+(x1) [USB GPS dongle](https://amzn.to/49jqJi4) (optional)<br />
 [USB Wi-Fi adapter1](https://amzn.to/49ng59U), [USB Wi-Fi adapter2](https://amzn.to/3ukoT1A) (optional)<br />
 [Stand-off brackets](https://amzn.to/3St6NSX)<br />
 [Wheels](https://amzn.to/4bjuCWh)<br />
@@ -46,7 +46,6 @@ Remember to use your Pwnagotchi responsibly and in compliance with ethical stand
     _[More info](https://dev.to/yegct/hashcat-cracking-pwnagotchi-pcap-files-4fh2)_
 
 3. Install 3.5-inch display Driver (on Raspberry Pi 4) 
-
     ```
     sudo rm -rf LCD-show
     git clone https://github.com/goodtft/LCD-show.git
@@ -56,7 +55,6 @@ Remember to use your Pwnagotchi responsibly and in compliance with ethical stand
     ```
 
     (if you want to revert back to HDMI)
-
     ```
     chmod -R 755 LCD-show
     cd LCD-show/
@@ -76,7 +74,7 @@ Remember to use your Pwnagotchi responsibly and in compliance with ethical stand
    _[Source](https://docs.alfa.com.tw/Support/Linux/RTL8811AU/)_
 
 5. Installing Camera Driver (if not using Raspberry Pi Camera)<br />
-   _[Source](https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/Quick-Start-Guide/)_
+   _[Camera Drivers](https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/Quick-Start-Guide/)_
    ```
    libcamera-still -o picture.jpg          # Take a picture
    libcamera-vid -t 10000 -o video.H264    # Take a video

@@ -25,9 +25,9 @@ Also remember to use your Pwnagotchi responsibly and in compliance with ethical 
 [Stand-off brackets](https://amzn.to/3St6NSX)<br />
 [Wheels](https://amzn.to/4bjuCWh)<br />
 
-# [Build Video](https://www.reddit.com/u/froggyCaller/s/UnxLtAQCF8)
+# **[Watch the Build](https://www.reddit.com/u/froggyCaller/s/UnxLtAQCF8)**
 
-# **Installations**
+## **Installations**
 
 1. **OS install:**
    - Raspberry Pi Zero WH - [Pwnagotchi](https://pwnagotchi.ai/installation/) <br />

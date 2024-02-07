@@ -85,7 +85,7 @@ Also remember to use your Pwnagotchi responsibly and in compliance with ethical 
  <br />
 Note: The provided links are affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you. Your support will help create projects like this. Thank you for your support!<br />
 
-# Bill of Materials
+## Support the project
 If you would like to support this project and and keep me caffeinated, you can do it here:<br />
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/tonysacco)

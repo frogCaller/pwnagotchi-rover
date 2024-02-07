@@ -25,6 +25,8 @@ Also remember to use your Pwnagotchi responsibly and in compliance with ethical 
 [Stand-off brackets](https://amzn.to/3St6NSX)<br />
 [Wheels](https://amzn.to/4bjuCWh)<br />
 
+# [Build Video](https://www.reddit.com/u/froggyCaller/s/UnxLtAQCF8)
+
 # **Installations**
 
 1. **OS install:**
@@ -81,4 +83,9 @@ Also remember to use your Pwnagotchi responsibly and in compliance with ethical 
    libcamera-vid -t 0 --inline --listen -o tcp://0.0.0.0:8080    # Stream
    ```
  <br />
-Note: The provided links are affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you. Your support will help create projects like this. Thank you for your support!
+Note: The provided links are affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you. Your support will help create projects like this. Thank you for your support!<br />
+
+# Bill of Materials
+If you would like to support this project and and keep me caffeinated, you can do it here:<br />
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/tonysacco)

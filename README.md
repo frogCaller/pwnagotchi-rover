@@ -2,7 +2,7 @@
 ![](images/pwnagotchiRover.jpeg)
 
 Hack with style and transform your pwnagotchi sidekick into a cyber deck rover! This project is all about DIY fun, where we're shaking up the Pwnagotchi game by throwing it together with a cyber deck on wheels.<br />
-Remember to use your Pwnagotchi responsibly and in compliance with ethical standards and legal regulations. Happy hacking!
+Also remember to use your Pwnagotchi responsibly and in compliance with ethical standards and legal regulations. Happy hacking!
 
 # Bill of Materials
 (x1) [Raspberry Pi Zero WH](https://amzn.to/49mZVxC)<br />
@@ -73,7 +73,7 @@ Remember to use your Pwnagotchi responsibly and in compliance with ethical stand
    ```
    _[Source](https://docs.alfa.com.tw/Support/Linux/RTL8811AU/)_
 
-5. Installing Camera Driver (if not using Raspberry Pi Camera)<br />
+5. Install Camera Driver (if not using Raspberry Pi Camera)<br />
    _[Camera Drivers](https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/Quick-Start-Guide/)_
    ```
    libcamera-still -o picture.jpg          # Take a picture

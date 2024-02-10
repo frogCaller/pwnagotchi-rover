@@ -1,5 +1,6 @@
 # Fun Additions
-![](images/GroupPhoto.jpeg)
+![](../images/GroupPhoto.jpeg)
+
 Level up your Raspberry Pi experience with a dose of fun and advanced capabilities!
 ## **Installations**
 

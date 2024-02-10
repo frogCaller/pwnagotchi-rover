@@ -1,6 +1,6 @@
 # Fun Additions
 ![](images/GroupPhoto.jpeg)
-Level up your Raspberry Pi experience with a touch of fun and advanced capabilities! First, indulge in a collection of entertaining commands by installing fortune, lolcat, cmatrix, hollywood, and cowsay with a simple 'sudo apt install' command. Then, take your Raspberry Pi to the next level by installing chatGPT for engaging conversations.
+Level up your Raspberry Pi experience with a dose of fun and advanced capabilities!
 ## **Installations**
 
 1. **Install some typical fun command:**

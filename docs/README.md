@@ -10,8 +10,7 @@ Level up your Raspberry Pi experience with a dose of fun and advanced capabiliti
    ```
 
 2. **Install chatGPT on your Raspberry Pi:**<br />
-   
-   Clone the repository:
+
    ```
    git clone https://github.com/antimatter15/alpaca.cpp.git
    cd alpaca.cpp

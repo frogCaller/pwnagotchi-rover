@@ -8,7 +8,7 @@ Level up your Raspberry Pi experience with a dose of fun and advanced capabiliti
    sudo apt install fortune lolcat cmatrix hollywood cowsay -y
    ```
 
-2. **Install chatGPT on your Raspberry Pi 4/5:**<br />
+2. **Install chatGPT on your Raspberry Pi:**<br />
    
    Clone the repository:
    ```

@@ -82,10 +82,37 @@ Also remember to use your Pwnagotchi responsibly and in compliance with ethical 
    libcamera-vid -t 10000 -o video.H264    # Take 10 sec video
    libcamera-vid -t 0 --inline --listen -o tcp://0.0.0.0:8080    # Stream
    ```
- <br />
-Note: The provided links are affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you. Your support will help create projects like this. Thank you for your support!<br />
+   
+# Fun Additions
+
+Level up your Rover with some fun and advanced capabilities!
+
+6. **Install some typical fun command:**
+    ```
+   sudo apt install fortune lolcat cmatrix hollywood cowsay -y
+   ```
+
+7. **Install chatGPT!!:**<br />
+
+   ```
+   git clone https://github.com/antimatter15/alpaca.cpp.git
+   cd alpaca.cpp
+   sudo make chat
+   wget https://huggingface.co/Sosaka/Alpaca-native-4bit-ggml/resolve/main/ggml-alpaca-7b-q4.bin
+   ```   
+   To use, run:
+   ```
+   ./chat
+   ```
+    > *For an optimal experience, I highly recommend using a standard computer running Ubuntu and following the same steps— the difference in performance will be noticeably significant compared to running it on a Raspberry Pi.*
+    
+    _[Source](https://github.com/antimatter15/alpaca.cpp)_<br />
+    <br />
 
 ## Support the project
 If you would like to support this project and and keep me caffeinated, you can do it here:<br />
+
+ <br />
+Note: The provided links are affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you. Your support will help create projects like this. Thank you for your support!<br />
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/tonysacco)

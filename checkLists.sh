@@ -5,7 +5,7 @@
 # also, if user has cowsay or lolcat installed, then it will try to use them for nicer experience
 
 current_user=$(whoami)
-check_lists="hashcat -m 22000 -w3 --status candidates.hc22000 /home/$current_user/Lists/*.txt"
+check_lists="hashcat -m 22000 -w3 --status /home/$current_user/handshakes/candidates.hc22000 /home/$current_user/Lists/*.txt"
 check_cracks="hashcat -m 22000 candidates.hc22000 --show"
 
 # Function to check if a command exists

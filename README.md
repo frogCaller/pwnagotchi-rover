@@ -1,9 +1,10 @@
 # Pwnagotchi Rover
 ![](images/pwnagotchiRover.jpeg)
 
-Hack with style and transform your pwnagotchi sidekick into a cyber deck rover! This project is all about DIY fun, where we're shaking up the Pwnagotchi game by throwing it together with a cyber deck on wheels. Let's even incorporate ChatGPT into the mix, turning your rover into an intelligent conversational companion that adds a whole new dimension to your hacking endeavors.
-> Remember to use your Pwnagotchi responsibly and in compliance with ethical standards and legal regulations. Happy hacking!
+Hack with style and transform your pwnagotchi sidekick into a cyber deck rover! This project is all about DIY fun, where we're shaking up the Pwnagotchi game by throwing it together with a cyber deck on wheels. Let's even incorporate ChatGPT into the mix, turning your rover into an intelligent conversational companion.
 
+Before you begin with this project, it is recommended that you have prior experience building a Pwnagotchi. Having familiarity with Pwnagotchi setups can significantly enhance your installation and configuration process. If you are new to Pwnagotchi, we recommend checking out the [Pwnagotchi](https://pwnagotchi.ai/installation/) site and following the installation guide to get acquainted with the basics.
+> Remember to use your Pwnagotchi responsibly and in compliance with ethical standards and legal regulations. Happy hacking!
 # Bill of Materials
 (x1) [Raspberry Pi Zero WH](https://amzn.to/49mZVxC)<br />
 (x1) [Raspberry Pi 3](https://amzn.to/3Ov69Dm)<br />

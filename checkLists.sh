@@ -12,8 +12,10 @@ command_exists() {
 }
 
 # Check if cowsay and lolcat are available
-if command_exists cowsay && command_exists lolcat; then
-  echo "Checking with existing lists" | cowsay | lolcat
+if command_exists lolcat; then
+  echo "Checking with existing lists" | lolcat
+elif command_exists cowsay; then
+  echo "Checking with existing lists" | cowsay
 else
   echo "Checking with existing lists"
 fi
@@ -21,8 +23,11 @@ fi
 $check_lists
 wait $!
 
-if command_exists cowsay && command_exists lolcat; then
-  echo "I'm done checking" | cowsay | lolcat
+# Check if cowsay and lolcat are available
+if command_exists lolcat; then
+  echo "I'm done checking" | lolcat
+elif command_exists cowsay; then
+  echo "I'm done checking" | cowsay
 else
   echo "I'm done checking"
 fi

@@ -1,7 +1,7 @@
 # Pwnagotchi Rover
 ![](images/pwnagotchiRover.jpeg)
 
-Hack with style and transform your pwnagotchi sidekick into a cyber deck rover! This project is all about DIY fun, where we're shaking up the Pwnagotchi game by throwing it together with a cyber deck on wheels. Let's even incorporat ChatGPT into the mix, turning your rover into an intelligent conversational companion that adds a whole new dimension to your hacking endeavors.
+Hack with style and transform your pwnagotchi sidekick into a cyber deck rover! This project is all about DIY fun, where we're shaking up the Pwnagotchi game by throwing it together with a cyber deck on wheels. Let's even incorporate ChatGPT into the mix, turning your rover into an intelligent conversational companion that adds a whole new dimension to your hacking endeavors.
 > Remember to use your Pwnagotchi responsibly and in compliance with ethical standards and legal regulations. Happy hacking!
 
 # Bill of Materials

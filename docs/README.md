@@ -1,7 +1,7 @@
 # Fun Additions
 ![](../images/GroupPhoto.jpeg)
 
-Level up your Raspberry Pi experience with a dose of fun and advanced capabilities!
+Level up your Raspberry Pi experience with some fun and advanced capabilities!
 ## **Installations**
 
 1. **Install some typical fun command:**

@@ -1,8 +1,8 @@
 # Pwnagotchi Rover
 ![](images/pwnagotchiRover.jpeg)
 
-Hack with style and transform your pwnagotchi sidekick into a cyber deck rover! This project is all about DIY fun, where we're shaking up the Pwnagotchi game by throwing it together with a cyber deck on wheels.<br />
-Also remember to use your Pwnagotchi responsibly and in compliance with ethical standards and legal regulations. Happy hacking!
+Hack with style and transform your pwnagotchi sidekick into a cyber deck rover! This project is all about DIY fun, where we're shaking up the Pwnagotchi game by throwing it together with a cyber deck on wheels. Let's even incorporat ChatGPT into the mix, turning your rover into an intelligent conversational companion that adds a whole new dimension to your hacking endeavors.
+> Remember to use your Pwnagotchi responsibly and in compliance with ethical standards and legal regulations. Happy hacking!
 
 # Bill of Materials
 (x1) [Raspberry Pi Zero WH](https://amzn.to/49mZVxC)<br />
@@ -83,7 +83,7 @@ Also remember to use your Pwnagotchi responsibly and in compliance with ethical 
    libcamera-vid -t 0 --inline --listen -o tcp://0.0.0.0:8080    # Stream
    ```
    
-# Fun Additions
+## Fun Additions
 
 Level up your Rover with some fun and advanced capabilities!
 
@@ -92,7 +92,7 @@ Level up your Rover with some fun and advanced capabilities!
    sudo apt install fortune lolcat cmatrix hollywood cowsay -y
    ```
 
-7. **Install chatGPT!!:**<br />
+7. **Install chatGPT!! (Raspherry Pi 4)**<br />
 
    ```
    git clone https://github.com/antimatter15/alpaca.cpp.git

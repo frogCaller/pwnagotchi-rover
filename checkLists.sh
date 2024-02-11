@@ -1,4 +1,6 @@
 #!/bin/bash
+# This script executes hashcat, using all text files within the specified "Lists" directory 
+# as potential password lists for the cracking attempt.
 
 current_user=$(whoami)
 check_lists="hashcat -m 22000 -w3 --status candidates.hc22000 /home/$current_user/Lists/*.txt"

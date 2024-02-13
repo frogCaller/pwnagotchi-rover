@@ -64,7 +64,7 @@ _Amazon links:_
     cd LCD-show/
     sudo ./LCD-hdmi
     ```
-    _[Source](https://www.instructables.com/Raspberry-Pi-4B3B-35-Inch-LCD-Touch-DisplayScreen/)_
+    _[Source](https://github.com/lcdwiki/LCD-show-retropie)_
 
 4. Install [USB Wi-Fi adapter1](https://amzn.to/49ng59U) Driver (any or both Raspberry Pis)
    ```

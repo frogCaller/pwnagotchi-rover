@@ -3,28 +3,29 @@
 
 Hack with style and transform your pwnagotchi sidekick into a cyber deck rover! This project is all about DIY fun, where we're shaking up the Pwnagotchi game by throwing it together with a cyber deck on wheels. Let's even incorporate ChatGPT into the mix, turning your rover into an intelligent conversational companion.
 
-Before you begin with this project, it is recommended that you have prior experience building a Pwnagotchi. Having familiarity with Pwnagotchi setups can significantly enhance your installation and configuration process. If you are new to Pwnagotchi, we recommend checking out the [Pwnagotchi](https://pwnagotchi.ai/installation/) site and following the installation guide to get acquainted with the basics.
 > Remember to use your Pwnagotchi responsibly and in compliance with ethical standards and legal regulations. Happy hacking!
 # Bill of Materials
-(x1) [Raspberry Pi Zero WH](https://amzn.to/49mZVxC)<br />
-(x1) [Raspberry Pi 3](https://amzn.to/3Ov69Dm)<br />
-(x1) [Raspberry Pi 4](https://amzn.to/3w3UDZz)<br />
-(x3) [Micro SD Cards](https://amzn.to/48bSKY8)<br />
-(x1) [18650 UPS HAT](https://amzn.to/3ukopbM) for Raspberry Pi<br />
-(x2) [18650 batteries](https://amzn.to/49F1pn5)<br />
-(x2) [2.13-inch e-ink Waveshare 4 display](https://amzn.to/49od8X0)<br />
-(x1) [3.5-inch display panel](https://amzn.to/3OwjCuV)<br />
-(x2) [90-degree GPIO extenders & splitter](https://amzn.to/3Uooea9)<br />
-(x1) [CPU heatsink](https://amzn.to/3HN08OL)<br />
-(x1) Male to male [USB type C](https://amzn.to/49kzHvE)<br />
+_Amazon links:_
+
+(x1) [Raspberry Pi Zero WH](https://amzn.to/3OFOclE)<br />
+(x1) [Raspberry Pi 3](https://amzn.to/3w8aENS)<br />
+(x1) [Raspberry Pi 4](https://amzn.to/3SVmTpX)<br />
+(x3) [Micro SD Cards](https://amzn.to/3uGUxX8)<br />
+(x1) [18650 UPS HAT](https://amzn.to/3SGiTsf) for Raspberry Pi<br />
+(x2) [18650 batteries](https://amzn.to/49cHxru)<br />
+(x2) [2.13-inch e-ink Waveshare 4 display](https://amzn.to/3HTGT6h)<br />
+(x1) [3.5-inch display panel](https://amzn.to/3HTGsJb)<br />
+(x2) [90-degree GPIO extenders & splitter](https://amzn.to/3HY29I4)<br />
+(x1) [CPU heatsink](https://amzn.to/3OGf84X)<br />
+(x1) Male to male [USB type C](https://amzn.to/49d8LxY)<br />
 (x1) Male to male [HDMI adapter](https://amzn.to/3w3WgGr)<br />
-(x1) 90-degree [USB to Micro USB cable](https://amzn.to/3w1uWsl)<br />
-(x1) [Raspberry pi Camera](https://amzn.to/4bp14WX)<br />
-(x1) [HDMI adpter](https://amzn.to/491uXLt) for raspberry pi camera<br />
-(x1) [USB GPS dongle](https://amzn.to/49jqJi4) (optional)<br />
-[USB Wi-Fi adapter1](https://amzn.to/49ng59U), [USB Wi-Fi adapter2](https://amzn.to/3ukoT1A) (optional)<br />
-[Stand-off brackets](https://amzn.to/3St6NSX)<br />
-[Wheels](https://amzn.to/4bjuCWh)<br />
+(x1) 90-degree [USB to Micro USB cable](https://amzn.to/497Q5Qi)<br />
+(x1) [Raspberry pi Camera](https://amzn.to/3SZYWhy)<br />
+(x1) [HDMI adpter](https://amzn.to/48hhJcv) for raspberry pi camera<br />
+(x1) [USB GPS dongle](https://amzn.to/49f3je8) (optional)<br />
+[USB Wi-Fi adapter1](https://amzn.to/3wbFS6J), [USB Wi-Fi adapter2](https://amzn.to/3SuMKDS) (optional)<br />
+[Stand-off brackets](https://amzn.to/3uoEe1k)<br />
+[Wheels](https://amzn.to/49dWMAl)<br />
 
 # **[Watch the Build](https://www.reddit.com/u/froggyCaller/s/UnxLtAQCF8)**
 
@@ -110,10 +111,10 @@ Level up your Rover with some fun and advanced capabilities!
     _[Source](https://github.com/antimatter15/alpaca.cpp)_<br />
     <br />
 
+<br />
+Note: The provided links are amazon affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you. Your support will help create projects like this. Thank you for your support!<br />
+
 ## Support the project
 If you would like to support this project and and keep me caffeinated, you can do it here:<br />
-
- <br />
-Note: The provided links are affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you. Your support will help create projects like this. Thank you for your support!<br />
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/tonysacco)

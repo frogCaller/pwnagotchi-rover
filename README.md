@@ -66,7 +66,7 @@ _Amazon links:_
     ```
     _[Source](https://www.instructables.com/Raspberry-Pi-4B3B-35-Inch-LCD-Touch-DisplayScreen/)_
 
-4. Install [USB Wi-Fi adapter1](https://amzn.to/49ng59U) Driver (on any/both Raspberry Pis)
+4. Install [USB Wi-Fi adapter1](https://amzn.to/49ng59U) Driver (any or both Raspberry Pis)
    ```
    sudo apt update
    sudo apt install raspberrypi-kernel-headers
@@ -94,7 +94,7 @@ Level up your Rover with some fun and advanced capabilities!
    sudo apt install fortune lolcat cmatrix hollywood cowsay -y
    ```
 
-7. **Install chatGPT!! (Raspherry Pi 4)**<br />
+7. **Install chatGPT!! (Raspberry Pi 4)**<br />
 
    ```
    git clone https://github.com/antimatter15/alpaca.cpp.git

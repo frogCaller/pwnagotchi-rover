@@ -21,7 +21,7 @@ _Amazon links:_
 (x1) Male to male [HDMI adapter](https://amzn.to/3w3WgGr)<br />
 (x1) 90-degree [USB to Micro USB cable](https://amzn.to/497Q5Qi)<br />
 (x1) [Raspberry pi Camera](https://amzn.to/3SZYWhy)<br />
-(x1) [HDMI adpter](https://amzn.to/48hhJcv) for raspberry pi camera<br />
+(x1) [HDMI adapter](https://amzn.to/48hhJcv) for raspberry pi camera<br />
 (x1) [USB GPS dongle](https://amzn.to/49f3je8) (optional)<br />
 [USB Wi-Fi adapter1](https://amzn.to/3wbFS6J), [USB Wi-Fi adapter2](https://amzn.to/3SuMKDS) (optional)<br />
 [Stand-off brackets](https://amzn.to/3uoEe1k)<br />

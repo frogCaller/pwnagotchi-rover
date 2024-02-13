@@ -112,7 +112,7 @@ Level up your Rover with some fun and advanced capabilities!
     <br />
 
 <br />
-Note: The provided links are amazon affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you. Your support will help create projects like this. Thank you for your support!<br />
+Note: The provided links are amazon affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you.<br />
 
 ## Support the project
 If you would like to support this project and and keep me caffeinated, you can do it here:<br />

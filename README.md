@@ -95,7 +95,7 @@ Level up your Rover with some fun and advanced capabilities!
    ```
 
 7. **Install chatGPT!! (Raspberry Pi 4)**<br />
-
+Clone repository and download the model.
    ```
    git clone https://github.com/antimatter15/alpaca.cpp.git
    cd alpaca.cpp

@@ -1,6 +1,6 @@
 # BitCoin Solo Mining
 
-While your rover is waiting for new handshakes, let's mine bitcoin in the mean time!
+While your rover is waiting for new handshakes, let's mine Bitcoin in the mean time!
 
 ## **Installations**
 
@@ -15,7 +15,7 @@ While your rover is waiting for new handshakes, let's mine bitcoin in the mean t
    ```
    To mine, run:
    ```
-   ./cpuminer -a sha256d -o stratum+tcp://solo.ckpool.org:3333 -u [YOUR BITCOIN WALLET] -p [PASSWORD]
+   ./cpuminer -a sha256d -o stratum+tcp://solo.ckpool.org:3333 -u [YOUR BITCOIN WALLET] -p [CREATE_PASSWORD]
    ```
 <br />
 <br />
@@ -31,7 +31,7 @@ While your rover is waiting for new handshakes, let's mine bitcoin in the mean t
    ```
    To mine, run:
    ```
-   ./cpuminer -a sha256d -o stratum+tcp://solo.ckpool.org:3333 -u [YOUR BITCOIN WALLET] -p [PASSWORD]
+   ./cpuminer -a sha256d -o stratum+tcp://solo.ckpool.org:3333 -u [YOUR BITCOIN WALLET] -p [CREATE_PASSWORD]
    ```
     
    _[Source](https://github.com/tpruvot/cpuminer-multi?tab=readme-ov-file)_<br />

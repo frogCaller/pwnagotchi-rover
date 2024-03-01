@@ -85,16 +85,11 @@ _Amazon links:_
    libcamera-vid -t 0 --inline --listen -o tcp://0.0.0.0:8080    # Stream
    ```
    
-## Fun Additions
+## Install ChatGPT
 
 Level up your Rover with some fun and advanced capabilities!
 
-6. **Install some typical fun command:**
-    ```
-   sudo apt install fortune lolcat cmatrix hollywood cowsay -y
-   ```
-
-7. **Install chatGPT!! (Raspberry Pi 4)**<br />
+6. **Install chatGPT!! (Raspberry Pi 4)**<br />
 Clone repository and download the model.
    ```
    git clone https://github.com/antimatter15/alpaca.cpp.git

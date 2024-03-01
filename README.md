@@ -110,6 +110,11 @@ Clone repository and download the model.
     
     _[Source](https://github.com/antimatter15/alpaca.cpp)_<br />
     <br />
-
 <br />
 Note: The provided links are amazon affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you.<br />
+
+## Support the project
+
+If you would like to support this project and and keep me caffeinated, you can do it here:<br />
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/tonysacco)

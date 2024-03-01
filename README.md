@@ -1,5 +1,5 @@
 # Pwnagotchi Rover
-![](images/pwnagotchiRover.jpeg)
+![](images/pwnagotchiRover1.jpg)
 
 Transform your pwnagotchi sidekick into a cyber deck rover! This project is all about DIY fun, where we're shaking up the Pwnagotchi game by throwing it together with a cyber deck on wheels. Let's even incorporate ChatGPT into the mix, turning your rover into an intelligent conversational companion.
 

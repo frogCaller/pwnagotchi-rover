@@ -1,5 +1,6 @@
 # BitCoin Solo Mining
 
+![](images/cryptoMine.png)
 While your rover is waiting for new handshakes, let's mine Bitcoin in the mean time!
 
 ## **Installations**

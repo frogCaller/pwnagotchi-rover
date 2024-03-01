@@ -36,3 +36,5 @@ While your rover is waiting for new handshakes, let's mine Bitcoin in the mean t
     
    _[Source](https://github.com/tpruvot/cpuminer-multi?tab=readme-ov-file)_<br />
     <br />
+
+> Trying out Bitcoin mining with a Raspberry Pi is more for learning than earning. The high computational demands and the competitive nature of the Bitcoin network mean that solo mining on these devices is highly inefficient and unlikely to yield significant rewards. It's akin to holding a lottery ticket in the vast world of Bitcoin – a thrilling experience, even if the chances of hitting the jackpot are slim.

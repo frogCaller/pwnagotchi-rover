@@ -1,5 +1,5 @@
 # ChatGPT
-![](images/chatGPT.jpg)
+![](./images/chatGPT.jpg)
 
 Elevate your Rover's intelligence with ChatGPT! This guide provides a straightforward approach to installing ChatGPT on a Raspberry Pi 4, offering an innovative way to enhance your Rover with the power of advanced machine learning.
 

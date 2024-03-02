@@ -8,7 +8,7 @@
 
 **Mining on Raspberry pi 4:**
    ```
-   sudo apt-get install git automake autoconf libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev
+   sudo apt-get install git automake autoconf libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev -y
    sudo git clone https://github.com/tpruvot/cpuminer-multi.git
    cd cpuminer-multi
    sudo ./autogen.sh

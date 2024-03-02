@@ -1,6 +1,6 @@
 # Bitcoin Solo Mining
 
-![](images/cryptoMine.png)
+![](./images/cryptoMine.png)
 
 - ___While your rover is waiting for new handshakes, let's mine Bitcoin in the mean time!___
 

@@ -52,18 +52,27 @@ function promptForPassword() {
 function transferFiles() {
     promptForPassword
     removeKnownHosts
-    cd /home/$USER
-    wait $!
-    # Run the scp command after successfully connecting to 10.0.0.1
-    sshpass -p $password scp -o StrictHostKeyChecking=no -r $USER@10.0.0.2:/home/$USER/handshakes .
-    wait $!
+
+    # Change to the desired local directory
+    local_directory="/home/$USER"
+    cd "$local_directory" || return 1
+
+    # Run the scp command after successfully connecting to 10.0.0.2
+    sshpass -p "$password" scp -o StrictHostKeyChecking=no -r "$USER@10.0.0.2:/home/$USER/handshakes" .
+
+    # Check the exit status of the scp command
+    if [ $? -eq 0 ]; then
+        echo "File transfer successful."
+    else
+        echo "File transfer failed."
+    fi
     return $?
 }
 
+# Generate candidates.hc22000 & essid.wordlist
 function runFinalCommands() {
     cd /home/$USER/handshakes
     hcxpcapngtool *.pcap -o candidates.hc22000 -E essid.wordlist
-
 }
 
 # Main script

@@ -64,7 +64,7 @@ _Amazon links:_
     cd LCD-show/
     sudo ./LCD-hdmi
     ```
-    _[Source](https://github.com/lcdwiki/LCD-show-retropie)_
+    _[More info](https://github.com/lcdwiki/LCD-show-retropie)_
 
 4. Install [USB Wi-Fi adapter1](https://amzn.to/49ng59U) Driver (any or both Raspberry Pis)
    ```
@@ -75,7 +75,7 @@ _Amazon links:_
    sudo make
    sudo make install
    ```
-   _[Source](https://docs.alfa.com.tw/Support/Linux/RTL8811AU/)_
+   _[More info](https://docs.alfa.com.tw/Support/Linux/RTL8811AU/)_
 
 5. Install Camera Driver (if not using Raspberry Pi Camera)<br />
    _[Camera Drivers](https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/Quick-Start-Guide/)_
@@ -103,13 +103,8 @@ Clone repository and download the model.
    ```
     > *For an optimal experience, I highly recommend using a standard computer running Ubuntu and following the same steps— the difference in performance will be noticeably significant compared to running it on a Raspberry Pi.*
     
-    _[Source](https://github.com/antimatter15/alpaca.cpp)_<br />
+    _[More info](https://github.com/antimatter15/alpaca.cpp)_<br />
     <br />
 <br />
 Note: The provided links are amazon affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you.<br />
 
-## Support the project
-
-If you would like to support this project and and keep me caffeinated, you can do it here:<br />
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/tonysacco)

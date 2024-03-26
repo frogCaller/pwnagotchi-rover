@@ -41,6 +41,7 @@ _Amazon links:_
    ```
    sudo apt update && sudo apt upgrade -y
    sudo apt install hashcat -y
+   sudo apt install hcxtools -y
    ```
    Benchmark:
    ```

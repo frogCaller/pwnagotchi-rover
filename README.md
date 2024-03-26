@@ -86,25 +86,6 @@ _Amazon links:_
    libcamera-vid -t 0 --inline --listen -o tcp://0.0.0.0:8080    # Stream
    ```
    
-## Install ChatGPT
-
-Level up your Rover with some fun and advanced capabilities!
-
-6. **Install chatGPT!! (Raspberry Pi 4)**<br />
-Clone repository and download the model.
-   ```
-   git clone https://github.com/antimatter15/alpaca.cpp.git
-   cd alpaca.cpp
-   sudo make chat
-   wget https://huggingface.co/Sosaka/Alpaca-native-4bit-ggml/resolve/main/ggml-alpaca-7b-q4.bin
-   ```   
-   To use, run:
-   ```
-   ./chat
-   ```
-    > *For an optimal experience, I highly recommend using a standard computer running Ubuntu and following the same steps— the difference in performance will be noticeably significant compared to running it on a Raspberry Pi.*
-    
-    _[More info](https://github.com/antimatter15/alpaca.cpp)_<br />
     <br />
 <br />
 Note: The provided links are amazon affiliate links, and if you make a purchase through them, I may earn a small commission at no additional cost to you.<br />

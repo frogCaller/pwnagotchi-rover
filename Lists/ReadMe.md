@@ -1,7 +1,5 @@
 # Lists
-Found some lists online and tried removing the repeating words. 
 
-## **Download the lists**
    ```
    wget https://raw.githubusercontent.com/frogCaller/pwnagotchi-rover/main/Lists/List1.txt
    wget https://raw.githubusercontent.com/frogCaller/pwnagotchi-rover/main/Lists/List2.txt

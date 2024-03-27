@@ -9,7 +9,7 @@ _Amazon links:_
 
 (x1) [Raspberry Pi Zero WH](https://amzn.to/3OFOclE)<br />
 (x1) [Raspberry Pi 3](https://amzn.to/3w8aENS)<br />
-(x1) [Raspberry Pi 4](https://amzn.to/3SVmTpX)<br />
+(x1) [Raspberry Pi 4](https://amzn.to/3SVmTpX) / [5](https://amzn.to/3PGuwie) <br />
 (x3) [Micro SD Cards](https://amzn.to/3uGUxX8)<br />
 (x1) [18650 UPS HAT](https://amzn.to/3SGiTsf) for Raspberry Pi<br />
 (x2) [18650 batteries](https://amzn.to/49cHxru)<br />
@@ -34,7 +34,7 @@ _Amazon links:_
 1. **OS install:**
    - Raspberry Pi Zero WH - [Pwnagotchi](https://pwnagotchi.ai/installation/) <br />
    - Raspberry Pi 3 - [Pwnagotchi](https://pwnagotchi.ai/installation/) <br />
-   - Raspberry Pi 4 - Your preferred OS. <br />
+   - Raspberry Pi 4 / 5 - Your preferred OS. <br />
      (We went with Pi OS Lite 64-bit)
 
 2. **Install hashcat on Raspberry Pi 4:**

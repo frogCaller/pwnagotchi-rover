@@ -5,7 +5,7 @@ Elevate your Rover's intelligence with ChatGPT! This guide provides a straightfo
 
 ## **Installation**
 
-**Install chatGPT on Raspberry Pi 4**<br />
+**Install chatGPT on Raspberry Pi 4/5**<br />
 Clone repository and download the model.
    ```
    git clone https://github.com/antimatter15/alpaca.cpp.git

@@ -6,7 +6,7 @@
 
 ## **Installations**
 
-**Mining crypto on Raspberry pi 4:**
+**Mining crypto on Raspberry pi 4/5:**
    ```
    sudo apt-get update -y
    sudo apt-get install git automake autoconf libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev -y

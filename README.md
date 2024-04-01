@@ -61,7 +61,6 @@ _Amazon links:_
 
     (if you want to revert back to HDMI)
     ```
-    chmod -R 755 LCD-show
     cd LCD-show/
     sudo ./LCD-hdmi
     ```

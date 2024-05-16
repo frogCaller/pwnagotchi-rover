@@ -27,7 +27,7 @@ _Amazon links:_
 [Stand-off brackets](https://amzn.to/3uoEe1k)<br />
 [Wheels](https://amzn.to/49dWMAl)<br />
 
-# **[Watch the Build](https://www.reddit.com/u/froggyCaller/s/9dXDrO84MW)**
+# **[Watch the Build](https://www.reddit.com/user/froggyCaller/comments/1cqrfid/pwnagotchi_cyber_deck/)**
 
 ## **Installations**
 

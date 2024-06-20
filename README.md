@@ -7,25 +7,25 @@ Transform your pwnagotchi sidekick into a cyber deck rover! This project is all 
 # Bill of Materials
 _Amazon links:_
 
-(x1) [Raspberry Pi Zero WH](https://amzn.to/3OFOclE)<br />
-(x1) [Raspberry Pi 3](https://amzn.to/3w8aENS)<br />
-(x1) [Raspberry Pi 4](https://amzn.to/3SVmTpX) / [5](https://amzn.to/3PGuwie) <br />
-(x3) [Micro SD Cards](https://amzn.to/3uGUxX8)<br />
-(x1) [18650 UPS HAT](https://amzn.to/3SGiTsf) for Raspberry Pi<br />
-(x2) [18650 batteries](https://amzn.to/49cHxru)<br />
-(x2) [2.13-inch e-ink Waveshare 4 display](https://amzn.to/3HTGT6h)<br />
-(x1) [3.5-inch display panel](https://amzn.to/3HTGsJb)<br />
-(x2) [90-degree GPIO extenders & splitter](https://amzn.to/3HY29I4)<br />
-(x1) [CPU heatsink](https://amzn.to/3OGf84X)<br />
-(x1) Male to male [USB type C](https://amzn.to/49d8LxY)<br />
-(x1) Male to male [HDMI adapter](https://amzn.to/3w3WgGr)<br />
-(x1) 90-degree [USB to Micro USB cable](https://amzn.to/497Q5Qi)<br />
-(x1) [Raspberry pi Camera](https://amzn.to/3SZYWhy)<br />
-(x1) [HDMI adapter](https://amzn.to/48hhJcv) for raspberry pi camera<br />
-(x1) [USB GPS dongle](https://amzn.to/49f3je8) (optional)<br />
-[USB Wi-Fi adapter1](https://amzn.to/3wbFS6J), [USB Wi-Fi adapter2](https://amzn.to/3SuMKDS) (optional)<br />
-[Stand-off brackets](https://amzn.to/3uoEe1k)<br />
-[Wheels](https://amzn.to/49dWMAl)<br />
+* [Raspberry Pi Zero WH](https://amzn.to/3OFOclE)<br />
+* [Raspberry Pi 3](https://amzn.to/3w8aENS)<br />
+* [Raspberry Pi 4](https://amzn.to/3SVmTpX) / [5](https://amzn.to/3PGuwie) <br />
+* (x3) [Micro SD Cards](https://amzn.to/4erXgWD)<br />
+* [18650 UPS HAT](https://amzn.to/3SGiTsf) for Raspberry Pi<br />
+* (x2) [18650 batteries](https://amzn.to/49cHxru)<br />
+* (x2) [2.13-inch e-ink Waveshare 4 display](https://amzn.to/3HTGT6h)<br />
+* [3.5-inch display panel](https://amzn.to/3HTGsJb)<br />
+* (x2) [90-degree GPIO extenders & splitter](https://amzn.to/3HY29I4)<br />
+* [CPU heatsink](https://amzn.to/3OGf84X)<br />
+* Male to male [USB type C](https://amzn.to/49d8LxY)<br />
+* Male to male [HDMI adapter](https://amzn.to/3w3WgGr)<br />
+* 90-degree [USB to Micro USB cable](https://amzn.to/497Q5Qi)<br />
+* [Raspberry pi Camera](https://amzn.to/3SZYWhy)<br />
+* [HDMI adapter](https://amzn.to/48hhJcv) for raspberry pi camera<br />
+* [USB GPS dongle](https://amzn.to/49f3je8) (optional)<br />
+* [USB Wi-Fi adapter1](https://amzn.to/3wbFS6J), [USB Wi-Fi adapter2](https://amzn.to/3SuMKDS) (optional)<br />
+* [Stand-off brackets](https://amzn.to/3uoEe1k)<br />
+* [Wheels](https://amzn.to/49dWMAl)<br />
 
 # **[Watch the Build](https://www.reddit.com/user/froggyCaller/comments/1cqrfid/pwnagotchi_cyber_deck/)**
 

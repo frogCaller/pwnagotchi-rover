@@ -77,8 +77,10 @@ _Amazon links:_
    ```
    _[More info](https://docs.alfa.com.tw/Support/Linux/RTL8811AU/)_
 
-5. Install Camera Driver (if not using Raspberry Pi Camera)<br />
+5. Install Camera Driver (if not using Raspberry Pi Camera):<br />
    _[Camera Drivers](https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/Quick-Start-Guide/)_
+
+   - Use these commands to use camera:
    ```
    libcamera-still -o picture.jpg          # Take a picture
    libcamera-vid -t 10000 -o video.H264    # Take 10 sec video

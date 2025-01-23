@@ -23,7 +23,7 @@ _Amazon links:_
 * [Raspberry pi Camera](https://amzn.to/3SZYWhy)<br />
 * [HDMI adapter](https://amzn.to/48hhJcv) for raspberry pi camera<br />
 * [USB GPS dongle](https://amzn.to/49f3je8) (optional)<br />
-* [USB Wi-Fi adapter1](https://amzn.to/3wbFS6J), [USB Wi-Fi adapter2](https://amzn.to/3SuMKDS) (optional)<br />
+* [USB Wi-Fi adapter](https://amzn.to/3SuMKDS)<br />
 * [Stand-off brackets](https://amzn.to/3uoEe1k)<br />
 * [Wheels](https://amzn.to/49dWMAl)<br />
 
@@ -66,18 +66,8 @@ _Amazon links:_
     ```
     _[More info](https://github.com/lcdwiki/LCD-show-retropie)_
 
-4. Install [USB Wi-Fi adapter1](https://amzn.to/49ng59U) Driver (any or both Raspberry Pis)
-   ```
-   sudo apt update
-   sudo apt install raspberrypi-kernel-headers
-   git clone https://github.com/aircrack-ng/rtl8812au.git
-   cd rtl8812au
-   sudo make
-   sudo make install
-   ```
-   _[More info](https://docs.alfa.com.tw/Support/Linux/RTL8811AU/)_
 
-5. Install Camera Driver (if not using Raspberry Pi Camera):<br />
+4. Install Camera Driver (if not using Raspberry Pi Camera):<br />
    _[Camera Drivers](https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/Quick-Start-Guide/)_
 
    - Use these commands to use camera:

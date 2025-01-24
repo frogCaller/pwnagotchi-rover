@@ -10,9 +10,9 @@ _Amazon links:_
 * [Raspberry Pi Zero WH](https://amzn.to/3OFOclE)<br />
 * [Raspberry Pi 3](https://amzn.to/3w8aENS)<br />
 * [Raspberry Pi 4](https://amzn.to/3SVmTpX) / [5](https://amzn.to/3PGuwie) <br />
-* (x3) [Micro SD Cards](https://amzn.to/4erXgWD)<br />
+* [Micro SD Cards](https://amzn.to/4erXgWD)<br />
 * [18650 UPS HAT](https://amzn.to/3SGiTsf)<br />
-* (x2) [18650 batteries](https://amzn.to/49cHxru)<br />
+* [18650 batteries](https://amzn.to/49cHxru)<br />
 * (x2) [2.13-inch e-ink Waveshare 4 display](https://amzn.to/3HTGT6h)<br />
 * [3.5-inch display panel](https://amzn.to/3HTGsJb)<br />
 * (x2) [90-degree GPIO extenders & splitter](https://amzn.to/3HY29I4)<br />
